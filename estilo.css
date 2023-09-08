@@ -1,0 +1,88 @@
+h1 {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 0, 0)
+}
+
+li {
+    text-align:
+}
+
+body {
+    background-color: #839deb
+}
+
+p {
+    text-align: center
+}
+
+#luffy {
+    text-align: left
+}
+
+#zoro {
+    text-align: center
+}
+
+#nami {
+    text-align: right
+}
+
+#usopp {
+    text-align: left
+}
+
+#sanji {
+    text-align: center
+}
+
+#chopper {
+    text-align: right
+}
+
+#robin {
+    text-align: center
+}
+
+#brook {
+    text-align: right
+}
+
+.coluna {
+    float: left;
+    width: 33.33%;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.l2 {
+    float: left;
+    width: 33.33%
+}
+
+.dois::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.l3 {
+    float: left;
+    width: 45%
+}
+
+.três::after {
+    content: "";
+    clear: both;
+    display: table;
+}
